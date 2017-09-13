@@ -1,0 +1,8 @@
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\bin\Debug\Laba1.dll
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\bin\Debug\Laba1.pdb
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Skori\documents\visual studio 2015\Projects\Laba1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
